@@ -1,0 +1,190 @@
+
+ Size of task heap Priority Queue ( After insertion of task ( task_10 , 10 , 10 ) : 1
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+L ( NULL )
+R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_9 , 9 , 9 ) : 2
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+L ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+    L ( NULL )
+    R ( NULL )
+R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_8 , 8 , 8 ) : 3
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+L ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+    L ( NULL )
+    R ( NULL )
+R ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+    L ( NULL )
+    R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_7 , 7 , 7 ) : 4
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+L ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+    L ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( NULL )
+R ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+    L ( NULL )
+    R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_6 , 6 , 6 ) : 5
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 )  )
+L ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+    L ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+        L ( NULL )
+        R ( NULL )
+R ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+    L ( NULL )
+    R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_5 , 5 , 5 ) : 6
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_5 ) , pri ( 5 ) , duration ( 5 )  )
+L ( data : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 )  )
+    L ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+        L ( NULL )
+        R ( NULL )
+R ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+    L ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_4 , 4 , 4 ) : 7
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_4 ) , pri ( 4 ) , duration ( 4 )  )
+L ( data : Task - name ( task_5 ) , pri ( 5 ) , duration ( 5 )  )
+    L ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+        L ( NULL )
+        R ( NULL )
+R ( data : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 )  )
+    L ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+        L ( NULL )
+        R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_3 , 3 , 3 ) : 8
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_3 ) , pri ( 3 ) , duration ( 3 )  )
+L ( data : Task - name ( task_4 ) , pri ( 4 ) , duration ( 4 )  )
+    L ( data : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 )  )
+        L ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+            L ( NULL )
+            R ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+        L ( NULL )
+        R ( NULL )
+R ( data : Task - name ( task_5 ) , pri ( 5 ) , duration ( 5 )  )
+    L ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+        L ( NULL )
+        R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_2 , 2 , 2 ) : 9
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_2 ) , pri ( 2 ) , duration ( 2 )  )
+L ( data : Task - name ( task_3 ) , pri ( 3 ) , duration ( 3 )  )
+    L ( data : Task - name ( task_5 ) , pri ( 5 ) , duration ( 5 )  )
+        L ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+            L ( NULL )
+            R ( NULL )
+        R ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+            L ( NULL )
+            R ( NULL )
+    R ( data : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 )  )
+        L ( NULL )
+        R ( NULL )
+R ( data : Task - name ( task_4 ) , pri ( 4 ) , duration ( 4 )  )
+    L ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+        L ( NULL )
+        R ( NULL )
+
+
+ Size of task heap Priority Queue ( After insertion of task ( task_1 , 1 , 1 ) : 10
+ Heap Priority Queue Architecture : 
+
+Root ( data : Task - name ( task_1 ) , pri ( 1 ) , duration ( 1 )  )
+L ( data : Task - name ( task_2 ) , pri ( 2 ) , duration ( 2 )  )
+    L ( data : Task - name ( task_4 ) , pri ( 4 ) , duration ( 4 )  )
+        L ( data : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 )  )
+            L ( NULL )
+            R ( NULL )
+        R ( data : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 )  )
+            L ( NULL )
+            R ( NULL )
+    R ( data : Task - name ( task_5 ) , pri ( 5 ) , duration ( 5 )  )
+        L ( data : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 )  )
+            L ( NULL )
+            R ( NULL )
+        R ( NULL )
+R ( data : Task - name ( task_3 ) , pri ( 3 ) , duration ( 3 )  )
+    L ( data : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 )  )
+        L ( NULL )
+        R ( NULL )
+    R ( data : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 )  )
+        L ( NULL )
+        R ( NULL )
+
+ Top priority Task in Heap Priority Queue : Task - name ( task_1 ) , pri ( 1 ) , duration ( 1 ) 
+     removeMin( ) . . .  , size after remove Min( ):9
+ Top priority Task in Heap Priority Queue : Task - name ( task_2 ) , pri ( 2 ) , duration ( 2 ) 
+     removeMin( ) . . .  , size after remove Min( ):8
+ Top priority Task in Heap Priority Queue : Task - name ( task_3 ) , pri ( 3 ) , duration ( 3 ) 
+     removeMin( ) . . .  , size after remove Min( ):7
+ Top priority Task in Heap Priority Queue : Task - name ( task_4 ) , pri ( 4 ) , duration ( 4 ) 
+     removeMin( ) . . .  , size after remove Min( ):6
+ Top priority Task in Heap Priority Queue : Task - name ( task_5 ) , pri ( 5 ) , duration ( 5 ) 
+     removeMin( ) . . .  , size after remove Min( ):5
+ Top priority Task in Heap Priority Queue : Task - name ( task_6 ) , pri ( 6 ) , duration ( 6 ) 
+     removeMin( ) . . .  , size after remove Min( ):4
+ Top priority Task in Heap Priority Queue : Task - name ( task_7 ) , pri ( 7 ) , duration ( 7 ) 
+     removeMin( ) . . .  , size after remove Min( ):3
+ Top priority Task in Heap Priority Queue : Task - name ( task_8 ) , pri ( 8 ) , duration ( 8 ) 
+     removeMin( ) . . .  , size after remove Min( ):2
+ Top priority Task in Heap Priority Queue : Task - name ( task_9 ) , pri ( 9 ) , duration ( 9 ) 
+     removeMin( ) . . .  , size after remove Min( ):1
+ Top priority Task in Heap Priority Queue : Task - name ( task_10 ) , pri ( 10 ) , duration ( 10 ) 
+     removeMin( ) . . .  , size after remove Min( ):0
