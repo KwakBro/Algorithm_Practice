@@ -1,0 +1,49 @@
+
+ Creation of Task Handler Thread in main() .... 
+
+ Creation of Task Generation Thread in main() .... 
+
+ << Dequeuing Tasks from Task_Queue according to Priority ( Urgent Task First ) . . . 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+
+ >> Thread_Task_Generator Activated
+ >> Enqueuing task :  Task [ id ( 0 ) , name ( Task_0 ) , priority ( 1 ) , u_code ( 67 ) , type ( Urgent_task_4 ) ] 
+    << Dequeuing task :  Task [ id ( 0 ) , name ( Task_0 ) , priority ( 1 ) , u_code ( 67 ) , type ( Urgent_task_4 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 1 ) , name ( Task_1 ) , priority ( 9 ) , u_code ( 524 ) , type ( Normal_task_88 ) ] 
+    << Dequeuing task :  Task [ id ( 1 ) , name ( Task_1 ) , priority ( 9 ) , u_code ( 524 ) , type ( Normal_task_88 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 2 ) , name ( Task_2 ) , priority ( 2 ) , u_code ( 64 ) , type ( Urgent_task_5 ) ] 
+    << Dequeuing task :  Task [ id ( 2 ) , name ( Task_2 ) , priority ( 2 ) , u_code ( 64 ) , type ( Urgent_task_5 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 3 ) , name ( Task_3 ) , priority ( 1 ) , u_code ( 27 ) , type ( Urgent_task_1 ) ] 
+    << Dequeuing task :  Task [ id ( 3 ) , name ( Task_3 ) , priority ( 1 ) , u_code ( 27 ) , type ( Urgent_task_1 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 4 ) , name ( Task_4 ) , priority ( 5 ) , u_code ( 542 ) , type ( Normal_task_77 ) ] 
+    << Dequeuing task :  Task [ id ( 4 ) , name ( Task_4 ) , priority ( 5 ) , u_code ( 542 ) , type ( Normal_task_77 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 5 ) , name ( Task_5 ) , priority ( 1 ) , u_code ( 4 ) , type ( Urgent_task_2 ) ] 
+    << Dequeuing task :  Task [ id ( 5 ) , name ( Task_5 ) , priority ( 1 ) , u_code ( 4 ) , type ( Urgent_task_2 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 6 ) , name ( Task_6 ) , priority ( 2 ) , u_code ( 82 ) , type ( Urgent_task_1 ) ] 
+    << Dequeuing task :  Task [ id ( 6 ) , name ( Task_6 ) , priority ( 2 ) , u_code ( 82 ) , type ( Urgent_task_1 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 7 ) , name ( Task_7 ) , priority ( 8 ) , u_code ( 595 ) , type ( Normal_task_57 ) ] 
+    << Dequeuing task :  Task [ id ( 7 ) , name ( Task_7 ) , priority ( 8 ) , u_code ( 595 ) , type ( Normal_task_57 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 8 ) , name ( Task_8 ) , priority ( 1 ) , u_code ( 38 ) , type ( Urgent_task_9 ) ] 
+    << Dequeuing task :  Task [ id ( 8 ) , name ( Task_8 ) , priority ( 1 ) , u_code ( 38 ) , type ( Urgent_task_9 ) ] 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+    << Task_Queue ( both Urgent_Task and Normal_Task ) is empty !! 
+ >> Enqueuing task :  Task [ id ( 9 ) , name ( Task_9 ) , priority ( 7 ) , u_code ( 599 ) , type ( Normal_task_85 ) ] 
+    << Dequeuing task :  Task [ id ( 9 ) , name ( Task_9 ) , priority ( 7 ) , u_code ( 599 ) , type ( Normal_task_85 ) ] 
+ Thread Task Generator closed.
+ Thread Task Handler closed.
+ All critical sections deleted. 
